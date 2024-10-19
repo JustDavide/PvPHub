@@ -1,9 +1,9 @@
-package me.dovide.brawlhub.commands;
+package me.dovide.pvphub.commands;
 
-import me.dovide.brawlhub.HubMain;
-import me.dovide.brawlhub.listener.SwitchListener;
-import me.dovide.brawlhub.utils.Config;
-import me.dovide.brawlhub.utils.Items;
+import me.dovide.pvphub.HubMain;
+import me.dovide.pvphub.listener.SwitchListener;
+import me.dovide.pvphub.utils.Config;
+import me.dovide.pvphub.utils.Items;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

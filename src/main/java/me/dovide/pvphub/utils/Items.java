@@ -1,6 +1,6 @@
-package me.dovide.brawlhub.utils;
+package me.dovide.pvphub.utils;
 
-import me.dovide.brawlhub.HubMain;
+import me.dovide.pvphub.HubMain;
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;
 import org.bukkit.entity.Player;

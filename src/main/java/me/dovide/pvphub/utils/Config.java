@@ -1,4 +1,4 @@
-package me.dovide.brawlhub.utils;
+package me.dovide.pvphub.utils;
 
 import me.dovide.utils.Util;
 import org.bukkit.configuration.file.YamlConfiguration;

@@ -1,8 +1,8 @@
-package me.dovide.brawlhub.listener;
+package me.dovide.pvphub.listener;
 
-import me.dovide.brawlhub.HubMain;
-import me.dovide.brawlhub.utils.Config;
-import me.dovide.brawlhub.utils.Items;
+import me.dovide.pvphub.HubMain;
+import me.dovide.pvphub.utils.Config;
+import me.dovide.pvphub.utils.Items;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.EventPriority;

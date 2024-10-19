@@ -1,6 +1,6 @@
 name: BrawlHub
 version: '${project.version}'
-main: me.dovide.brawlhub.HubMain
+main: me.dovide.pvphub.HubMain
 api-version: '1.20'
 authors: [Dovide]
 commands:

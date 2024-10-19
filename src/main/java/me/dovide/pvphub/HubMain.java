@@ -1,8 +1,8 @@
-package me.dovide.brawlhub;
+package me.dovide.pvphub;
 
-import me.dovide.brawlhub.commands.SwordGive;
-import me.dovide.brawlhub.listener.*;
-import me.dovide.brawlhub.utils.Config;
+import me.dovide.pvphub.commands.SwordGive;
+import me.dovide.pvphub.listener.*;
+import me.dovide.pvphub.utils.Config;
 import org.bukkit.configuration.InvalidConfigurationException;
 import org.bukkit.plugin.java.JavaPlugin;
 

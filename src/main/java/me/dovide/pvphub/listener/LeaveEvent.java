@@ -1,4 +1,4 @@
-package me.dovide.brawlhub.listener;
+package me.dovide.pvphub.listener;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
