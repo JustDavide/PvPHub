@@ -1,0 +1,57 @@
+sword:
+  item: NETHERITE_SWORD
+  name: "Sword"
+  enchant:
+    name: SHARPNESS
+    lvl: 1
+
+helmet:
+  item: NETHERITE_HELMET
+  name: "Helmet"
+  enchant:
+    name: DAMAGE_ALL
+    lvl: 1
+
+chestplate:
+  item: NETHERITE_CHESTPLATE
+  name: "Chestplate"
+  enchant:
+    name: PROTECTION_ENVIRONMENTAL
+    lvl: 1
+
+leggings:
+  item: NETHERITE_LEGGINGS
+  name: "leggings"
+  enchant:
+    name: PROTECTION_ENVIRONMENTAL
+    lvl: 1
+
+boots:
+  item: NETHERITE_BOOTS
+  name: "boots"
+  enchant:
+    name: PROTECTION_ENVIRONMENTAL
+    lvl: 1
+
+
+perm:
+  getsword: pvphub.getsword
+  reload: pvphub.reload
+
+other:
+  slot: 2
+  timer: 5
+
+msg:
+  no-perms: "You don't have enough permissions to use this command"
+  sword: "You received a Hub Sword"
+  no-touch: "You cannot use your inventory while PvP is active"
+  timer-on: "PvP will be activated in {seconds} second(s)"
+  timer-off: "PvP will be disabled in {seconds} second(s)"
+  pvp-on: "PvP is now on"
+  pvp-off: "PvP is now off"
+  death-by-player: "{victim} got killed by {killer}"
+  death-other: "{victim} died"
+  reload: "The config has been reloaded"
+  sub-reload: "If you modified any gear item (sword or armor) the plugin will not work, please reload the plugin with plugman or restart the server"
+
